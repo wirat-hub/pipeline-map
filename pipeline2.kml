@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>(เลเยอร์ที่ไม่มีชื่อ)</name>
+    <NetworkLink>
+      <name>แผนที่ที่ไม่มีชื่อ</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1LXYlNwNpwhol3tttq0kotN8AM2hEkww&lid=zNFFOCoLGmI]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
